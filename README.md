@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.center {
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center; /* Centra verticalmente */
+  height: 200px; /* Define una altura para el ejemplo */
+}
+
+img {
+  max-width: 100%; /* Ajusta la imagen al contenedor */
+  max-height: 100%;
+}
+</style>
+</head>
+<body>
+
+<div class="center">
+  <img src="img2/1.png" alt="Imagen centrada" width="200" height="200">
+</div>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Presentación y Exposición de Mascotas Roba Dinero</title>
+<style>
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+  }
+  .container {
+    max-width: 900px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  }
+  h1, h2 {
+    color: #b30000;
+  }
+  h3 {
+    color: #333;
+    margin-top: 20px;
+  }
+  ul {
+    padding-left: 20px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  table, th, td {
+    border: 1px solid #ccc;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #eee;
+  }
+  .emoji-title {
+    font-size: 1.3em;
+  }
+  .section {
+    margin-bottom: 40px;
+  }
+  hr {
+    margin: 30px 0;
+    border: none;
+    border-top: 1px solid #ddd;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mascota 1</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f8f9fa;
+      margin: 0;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+      color: #b30000;
+    }
+    h3 {
+      color: #333;
+      margin-top: 20px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    table, th, td {
+      border: 1px solid #ccc;
+    }
+    th, td {
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #eee;
+    }
+    .emoji-title {
+      font-size: 1.3em;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    hr {
+      margin: 30px 0;
+      border: none;
+      border-top: 1px solid #ddd;
+    }
+    .center {
+      display: flex;
+      justify-content: center; /* Centra horizontalmente */
+      align-items: center; /* Centra verticalmente */
+      margin: 20px 0;
+    }
+    .section-img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+  </style>
+</head>
+<body>
+    <div class="section">
+    <P></P>
+    <h1 class="emoji-title">Primer animal causante de desaparecer dinero en alimento</h1>
+    <P>1:</P>
+    <div class="center">
+      <img src="img2/Photos-1-001/Maggie.jpg" alt="Animal caro 1" class="section-img">
+    </div>
+    <p></p>
+    <h1>Segundo animal causante de desaparecer dinero</h1>
+    <p>2:</p>
+    <div class="center" >
+      <img src="img2/Photos-1-001/Pugg.jpg" alt="Pugg" width="300" height="300">
+    </div>
+    <h1>Una pequeña pausa Después de 2 animales</h1>
+        <div class="center" >
+      <img src="img2/Photos-1-001/Patricio.jpg" alt="Patricio" width="300" height="300">
+    </div>
+        <div class="center" >
+      <img src="img2/Photos-1-001/Panda.jpg" alt="Panda" width="300" height="300">
+    </div>
+    <h1> Continuación de 3 animales más</h1>
+    <p>1 de nuevo porque es Continuación(DEP):</p>
+      <div class="center" >
+  <img src="img2/Photos-1-001/Pancho.jpg" alt="Pancho" width="300" height="300">
+        </div>
+        <p>Ahora el segundo(DEP)</p>
+      <div class="center" >
+  <img src="img2/Photos-1-001/Don.jpg" alt="Don" width="300" height="300">
+        </div>
+        <div class="center">
+        <img src="img2/Photos-1-001/Donsentado.jpg" alt="sentado" width="500" height="300">
+        </div>
+        <h1>Otra pequeña pausa Después de 2 animales</h1>
+        <div class="center" >
+      <img src="img2/Photos-1-001/Kirbyroca.png" alt="Kirbyroca" width="300" height="300">
+    </div>
+        <div class="center" >
+      <img src="img2/Photos-1-001/pajaro.jpg" alt="pajaro" width="300" height="300">
+    </div>
+    <h1>Ahora una rellenita que odia a todo humano y ser vivo en su presencia</h1>
+    <img src="img2/Photos-1-001/Bichaataque.jpg" alt="Bichaataque">
+    <img src="img2/Photos-1-001/Bichadesprecio.jpg" alt="Bichadesprecio">
+    <img src="img2/Photos-1-001/Bichadormida.jpg" alt="Bichadormida">
+    <img src="img2/Photos-1-001/BichaGorda.jpg" alt="BichaGorda">
+    <img src="img2/Photos-1-001/Bichamaximodespresio.jpg" alt="Bichamaximodesprecio">
+    <img src="img2/Photos-1-001/BichaOdio.jpg" alt="BichaOdio">
+    </div>
+    <style>.creditos {
+      position: fixed;
+      bottom: 10px;
+      right: 10px;
+      font-size: 12px;
+      color: red; /color del texto rojo */
+      background-color: *rgba(255, 255, 255, 0.7);
+      padding: 5px 10px;
+      border-radius: 5 px;
+    }
+    </style>
+    <div class="creditos"> © 2025 José Eduardo · Todos los derechos reservados </div>
+    </div>
+</body>
+</html>
